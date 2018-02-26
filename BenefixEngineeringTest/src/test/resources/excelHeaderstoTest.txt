@@ -1,0 +1,7 @@
+start_date
+end_date
+product_name
+states
+group_rating_areas
+zero_eighteen
+nineteen_twenty
