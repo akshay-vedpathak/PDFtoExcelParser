@@ -41,8 +41,7 @@ while importing the project make sure to check the below options
 ![image](etc/alertDialog.png)
 4. Open Project structue and make sure that below options are selected
 ![image](etc/projectStructure.png)
-5. Post that create the following “Run Configuration” (Please make sure to select the below mentioned values for the Run
-Configuration)
+5. Post that create the following “Run Configuration” (Please make sure to select the below mentioned values for the Run Configuration)
 ![image](etc/runConfiguration.png)
 6. Run the above created run configuration and then you could see the logs of the application running
 7. Once the process completes successfully the output file(BeneFix_Small_Group_Plans_upload_template)
