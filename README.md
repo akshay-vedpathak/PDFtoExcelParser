@@ -40,7 +40,9 @@ while importing the project make sure to check the below options
 3. Post the import if you get the below alert dialog, please uncheck the BenefixEngineeringTest module
 ![image](etc/alertDialog.png)
 4. Open Project structue and make sure that below options are selected
+
 ![image](etc/projectStructure.png)
+
 5. Post that create the following “Run Configuration” (Please make sure to select the below mentioned values for the Run Configuration)
 
 ![image](etc/runConfiguration.png)
